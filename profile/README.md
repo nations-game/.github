@@ -1,8 +1,6 @@
 <h1 align="center">
-	<img src="../assets/logos/circle_logo.png" width="100" alt="Logo"/><br/>
-	<img src="../assets/misc/transparent.png" height="30" width="0px"/>
+	<img src="https://github.com/nations-game/.github/blob/main/assets/logos/circle_logo.png" width="100" alt="Logo"/><br/>
 	Nations
-	<img src="../assets/misc/transparent.png" height="30" width="0px"/>
 </h1>
 
 <p align="center">A browser-based real-time multiplayer game where you lead your own nation. <br></p>
