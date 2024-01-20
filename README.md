@@ -1,1 +1,2 @@
-# nations-game
+# .github
+Organization-wide files.
