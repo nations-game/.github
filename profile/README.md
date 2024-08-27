@@ -18,11 +18,12 @@
 	We plan to use PostgreSQL for the database in the future, for now we are simply using SQLite in development.
 </p>
 <p align="center">
-	We are planning to write the frontend in Svelte, but nobody on the team is particularly good at frontend design.<br>
-	If you'd like to help us out with that, please reach out!
+	The frontend uses SvelteKit and the Skeleton CSS library.
 </p>
 
 <h2 align="center">
 	Want to contribute?
 </h2>
-<p align="center">Message @quickdaffy on Discord or create a pull request on any of our repositories!</p>
+<p align="center">
+	Join our discord <a href="https://discord.gg/pdtQmXk4n8">here!</a>
+</p>
